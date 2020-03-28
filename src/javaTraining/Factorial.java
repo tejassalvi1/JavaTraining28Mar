@@ -18,6 +18,7 @@ public class Factorial {
 		
 		System.out.println("Factorial of number " +j + " is : " + factorial);
 		sc.close();
+		System.out.println("Scanner closed");
 	}
 
 }
