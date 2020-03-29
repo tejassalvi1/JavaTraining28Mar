@@ -7,7 +7,7 @@ import java.io.IOException;
 public class Write {
 	public static void main(String[] args) {
 		 //1. Define the path that we want to write
-		String fileName = "E:\\Junior Java\\Files\\FilesToWrite1.txt";
+		String fileName = "E:\\Junior Java\\Files\\FilesToWrite1 .txt";
 		String msg= "Writing data to the file";
 		
 		//2. Create the file in Java
