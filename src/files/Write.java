@@ -25,7 +25,7 @@ public class Write {
 			
 		} catch (IOException e) {
 			System.out.println("Error : could not write file : " + fileName);
-			e.printStackTrace();
+			e.printStackTrace(); 
 		}
 		finally {
 			System.out.println("Closing the filewriter ");
